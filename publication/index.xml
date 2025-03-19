@@ -5,12 +5,46 @@
     <link>https://artem-arutynyan.github.io/publication/</link>
       <atom:link href="https://artem-arutynyan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://artem-arutynyan.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Публикации</title>
       <link>https://artem-arutynyan.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Языки разметки и LaTeX</title>
+      <link>https://artem-arutynyan.github.io/publication/02/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://artem-arutynyan.github.io/publication/02/</guid>
+      <description>&lt;h1 id=&#34;языки-разметки-и-latex&#34;&gt;Языки разметки и LaTeX&lt;/h1&gt;
+&lt;h2 id=&#34;что-такое-языки-разметки&#34;&gt;Что такое языки разметки?&lt;/h2&gt;
+&lt;p&gt;Языки разметки используются для форматирования текста и его структурирования. Они позволяют управлять отображением контента, добавлять списки, таблицы, ссылки и другие элементы.&lt;/p&gt;
+&lt;p&gt;Среди наиболее распространённых языков разметки можно выделить:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — основной язык разметки для веб-страниц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — простой язык для создания документации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — мощный инструмент для оформления научных и технических текстов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;что-такое-latex&#34;&gt;Что такое LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX — это система верстки, разработанная специально для научных и математических текстов. Он широко используется в академической среде, поскольку позволяет профессионально оформлять документы.&lt;/p&gt;
+&lt;h3 id=&#34;основные-преимущества-latex&#34;&gt;Основные преимущества LaTeX:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Поддержка сложных математических формул.&lt;/li&gt;
+&lt;li&gt;Автоматическая генерация ссылок, оглавлений и библиографий.&lt;/li&gt;
+&lt;li&gt;Высокое качество типографики.&lt;/li&gt;
+&lt;li&gt;Гибкость в настройке оформления.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;где-применяется-latex&#34;&gt;Где применяется LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX активно используется:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;В научных публикациях и дипломных работах.&lt;/li&gt;
+&lt;li&gt;В технической документации и отчетах.&lt;/li&gt;
+&lt;li&gt;В создании презентаций и учебных материалов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Несмотря на сложность освоения, LaTeX остаётся одним из лучших инструментов для работы с текстами, где важны структура и точность.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Непрерывная интеграция и непрерывное развертывание</title>
