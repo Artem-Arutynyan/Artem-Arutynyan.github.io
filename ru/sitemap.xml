@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://artem-arutynyan.github.io/tags/academic/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -44,8 +44,40 @@
                 href="https://artem-arutynyan.github.io/tags/academic/"
                 />
   </url><url>
+    <loc>https://artem-arutynyan.github.io/tags/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://artem-arutynyan.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://artem-arutynyan.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://artem-arutynyan.github.io/publication/03/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://artem-arutynyan.github.io/publication/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://artem-arutynyan.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://artem-arutynyan.github.io/publication/"
+                />
+  </url><url>
     <loc>https://artem-arutynyan.github.io/post/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +91,7 @@
                 />
   </url><url>
     <loc>https://artem-arutynyan.github.io/tags/hugo-blox/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +105,7 @@
                 />
   </url><url>
     <loc>https://artem-arutynyan.github.io/tags/markdown/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -86,37 +118,13 @@
                 href="https://artem-arutynyan.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>https://artem-arutynyan.github.io/tags/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <loc>https://artem-arutynyan.github.io/post/03/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://artem-arutynyan.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://artem-arutynyan.github.io/tags/"
-                />
   </url><url>
     <loc>https://artem-arutynyan.github.io/post/02/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://artem-arutynyan.github.io/publication/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://artem-arutynyan.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://artem-arutynyan.github.io/publication/"
-                />
   </url><url>
     <loc>https://artem-arutynyan.github.io/publication/02/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
