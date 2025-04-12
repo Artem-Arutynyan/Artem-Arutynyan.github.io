@@ -5,7 +5,7 @@
     <link>https://artem-arutynyan.github.io/project/</link>
       <atom:link href="https://artem-arutynyan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://artem-arutynyan.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://artem-arutynyan.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://artem-arutynyan.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://artem-arutynyan.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://artem-arutynyan.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://artem-arutynyan.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://artem-arutynyan.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://artem-arutynyan.github.io/project/hugo/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://artem-arutynyan.github.io/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;сайт-научного-работника-на-hugo-academic&#34;&gt;Сайт научного работника на Hugo Academic&lt;/h1&gt;
+&lt;p&gt;Создание личного сайта — важный шаг для современного научного работника. Он служит не только визитной карточкой, но и платформой для демонстрации исследовательской деятельности, публикаций, преподавательской практики и проектов. Одним из самых удобных и популярных решений для создания таких сайтов является &lt;strong&gt;Hugo Academic&lt;/strong&gt; (теперь — &lt;a href=&#34;https://github.com/wowchemy/starter-hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Scholar&lt;/a&gt;).&lt;/p&gt;
+&lt;h2 id=&#34;почему-стоит-выбрать-hugo-academic&#34;&gt;Почему стоит выбрать Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic предлагает готовый шаблон, специально адаптированный под нужды академического сообщества. Он поддерживает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Автоматическую подгрузку публикаций из BibTeX,&lt;/li&gt;
+&lt;li&gt;Разделы для информации о преподавании, проектах, наградах и опыте работы,&lt;/li&gt;
+&lt;li&gt;Блог для публикации новостей, мыслей и материалов,&lt;/li&gt;
+&lt;li&gt;Поддержку мультиязычности,&lt;/li&gt;
+&lt;li&gt;Современный адаптивный дизайн, совместимый с мобильными устройствами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;структура-сайта&#34;&gt;Структура сайта&lt;/h2&gt;
+&lt;p&gt;После установки вы получаете репозиторий с четко структурированной файловой системой. Контент разделяется по типам: страницы, публикации, курсы, мероприятия и проекты. Это позволяет гибко управлять информацией, а использование формата Markdown делает процесс редактирования простым и прозрачным.&lt;/p&gt;
+&lt;h2 id=&#34;интеграция-с-внешними-сервисами&#34;&gt;Интеграция с внешними сервисами&lt;/h2&gt;
+&lt;p&gt;Hugo Academic легко интегрируется с сервисами Google Scholar, ORCID, Publons, GitHub и другими. Это позволяет автоматически отображать научные достижения и поддерживать сайт в актуальном состоянии без лишних усилий.&lt;/p&gt;
+&lt;h2 id=&#34;подходит-для-всех&#34;&gt;Подходит для всех&lt;/h2&gt;
+&lt;p&gt;Платформа подходит как аспирантам и начинающим исследователям, так и опытным профессорам. Возможность адаптации дизайна и структуры под конкретные нужды делает Hugo Academic универсальным инструментом для представления академического профиля в интернете.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Личный академический сайт — это не просто дополнительный канал коммуникации, а необходимый инструмент в современной научной среде. Hugo Academic предоставляет все возможности для того, чтобы запустить его быстро и профессионально. Это решение для тех, кто ценит гибкость, автоматизацию и эстетичный дизайн.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
